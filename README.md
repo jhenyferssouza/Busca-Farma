@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 O **Busca Farma** é um sistema desenvolvido como Trabalho de Conclusão de Curso (TCC) no Centro Municipal de Ensino Profissionalizado (CEMEP) de Paulínia-SP. 
 
@@ -12,18 +12,18 @@ A plataforma visa resolver o problema de longas filas e deslocamentos desnecess�
 
 ---
 
-## ✨ Funcionalidades Principais
+## Funcionalidades Principais
 
-- 🔍 **Busca de Medicamentos:** Pesquisa por nome do medicamento com exibição de disponibilidade (Disponível / Indisponível).
-- 🏥 **Filtro por Unidade Básica de Saúde (UBS):** Consulta completa do estoque de medicamentos por posto de saúde específico.
-- 📍 **Informações das UBS:** Endereços completos, telefones, horários de funcionamento e integração com o Google Maps para rotas.
-- ♿ **Acessibilidade:** Integração com o plugin **VLibras** em todas as páginas para tradução em Língua Brasileira de Sinais.
-- 🔒 **Painel Administrativo Restrito:** Autenticação via token de segurança para funcionários gerenciarem estoques, cadastrarem postos e publicarem notícias.
-- 📰 **Módulo de Notícias:** Canal de comunicação oficial para divulgar campanhas de vacinação e informes de saúde municipal.
+-  **Busca de Medicamentos:** Pesquisa por nome do medicamento com exibição de disponibilidade (Disponível / Indisponível).
+-  **Filtro por Unidade Básica de Saúde (UBS):** Consulta completa do estoque de medicamentos por posto de saúde específico.
+-  **Informações das UBS:** Endereços completos, telefones, horários de funcionamento e integração com o Google Maps para rotas.
+-  **Acessibilidade:** Integração com o plugin **VLibras** em todas as páginas para tradução em Língua Brasileira de Sinais.
+-  **Painel Administrativo Restrito:** Autenticação via token de segurança para funcionários gerenciarem estoques, cadastrarem postos e publicarem notícias.
+-  **Módulo de Notícias:** Canal de comunicação oficial para divulgar campanhas de vacinação e informes de saúde municipal.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Linguagem Backend:** [Python 3.x](https://www.python.org/)
 - **Framework Web:** [Django](https://www.djangoproject.com/)
@@ -33,7 +33,7 @@ A plataforma visa resolver o problema de longas filas e deslocamentos desnecess�
 
 ---
 
-## 🚀 Como Executar o Projeto Localmente
+## Como Executar o Projeto Localmente
 
 ### Pré-requisitos
 
@@ -82,7 +82,7 @@ Certifique-se de ter instalado em sua máquina:
 
 ---
 
-## 👥 Autoras do Projeto
+##  Autoras do Projeto
 
 Desenvolvido por:
 - **Jhenyfer da Silva Souza**
@@ -92,7 +92,3 @@ Desenvolvido por:
 *Orientadora: Profa. Raquel C. B. Lot*
 
 ---
-
-## 📝 Licença
-
-Este projeto foi desenvolvido para fins acadêmicos e sociais. Consulte a documentação interna para mais informações sobre direitos de uso e replicação.
