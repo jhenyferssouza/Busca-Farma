@@ -10,7 +10,11 @@ O **Busca Farma** é um sistema desenvolvido como Trabalho de Conclusão de Curs
 
 A plataforma visa resolver o problema de longas filas e deslocamentos desnecessários enfrentados pela população ao buscar medicamentos nas farmácias da rede pública de saúde (SUS). Com o Busca Farma, os cidadãos podem conferir em tempo real se o remédio necessário está disponível na UBS mais próxima antes de saírem de casa.
 
+É crescente a demanda por medicamentos, sejam eles de uso controlado ou não, em postos de saúde e farmácias públicas em todo o país. Porém, essa demanda tem sido acompanhada por diversos transtornos enfrentados pela população, como filas enormes, atendimento demorado e perda de tempo. Esses problemas, infelizmente, acontecem há muito tempo; tudo isso causado, principalmente, pela falta de informatização nesses locais
+Nossa solução foi criar um sistema de gerenciamento, controle e consulta da disponibilidade de medicamentos
 ---
+<img width="758" height="353" alt="image" src="https://github.com/user-attachments/assets/36cc5db2-6279-4feb-bf66-c11501d69b85" />
+
 
 ## Funcionalidades Principais
 
